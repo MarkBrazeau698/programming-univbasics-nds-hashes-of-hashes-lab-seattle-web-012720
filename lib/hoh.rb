@@ -48,7 +48,12 @@ p = {
     sub_category: {
       label: "Class",
       sub_category: {
-        label: "Order"
+        label: "Order",
+        sub_category: {},
+        label: {},
+        sub_category: {
+          label: "Genus"
+        }
       }
     }
   }
